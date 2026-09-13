@@ -1,2 +1,2 @@
 # NT118
-Công Nghệ DevOps và ứng dụng 
+Phát triển ứng dụng trên thiết bị di động 
